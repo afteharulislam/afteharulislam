@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Mohammad Afteharul Islam 
+#### I am Digital marketing on Web Developer
+![I am Digital marketing on Web Developer](https://scontent.fcgp5-1.fna.fbcdn.net/v/t1.6435-9/67841582_118629322780479_1819640157117087744_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=v0TErExtEaAAX8GbYnC&_nc_ht=scontent.fcgp5-1.fna&oh=9daf19bec9eea27ab49f628c685968a1&oe=61852EF1)
 
-<!--
-**afteharulislam/afteharulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer of Django, WordPress Theme Development and Digital marketing with almost 4 years of professional experience.
 
-Here are some ideas to get you started:
+Skills: PYTHON / DJANGO / WORDPRESS / HTML / CSS / JS / PHP / DIGITAL MARKETING
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
